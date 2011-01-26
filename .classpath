@@ -7,9 +7,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/aopalliance.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-api-1.0-sdk-1.4.0.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-api-labs-1.4.0.jar"/>
-	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-jsr107cache-1.4.0.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/aspectjrt.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/cglib-nodep-2.1_3.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-collections-3.2.1.jar"/>
