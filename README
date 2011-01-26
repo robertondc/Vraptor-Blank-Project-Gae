@@ -1,0 +1,15 @@
+VRAPTOR BLANK PROJECT FOR GAE
+
+DESCRIPTION
+
+A VRaptor project pre-configured for Eclipse and prepared to run on Google App Engine.
+
+USAGE:
+
+On Eclipse:
+File > Import > Existing Projects into Workspace > Select root directory.
+
+REQUIREMENTS:
+
+- Eclipse 3.6
+- Google Plugin For Eclipse: http://code.google.com/eclipse/
