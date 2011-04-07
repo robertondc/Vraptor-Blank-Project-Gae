@@ -11,8 +11,7 @@ File > Import > Existing Projects into Workspace > Select root directory.
 
 REQUIREMENTS:
 
-- SDK AppEngine 1.4.2
-- Eclipse 3.6
+- SDK AppEngine 1.4.3
 - Google Plugin For Eclipse: http://code.google.com/eclipse/
 
 LICENSE:
