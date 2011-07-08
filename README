@@ -7,11 +7,12 @@ A VRaptor (version 3.3.1) project pre-configured for Eclipse and prepared to run
 USAGE:
 
 On Eclipse:
-File > Import > Existing Projects into Workspace > Select root directory.
+1) File > Import > Existing Projects into Workspace > Select root directory.
+2) Project > Properties > Java Build Path > Add Library > Google App Engine > Select the SDK.
 
 REQUIREMENTS:
 
-- SDK AppEngine 1.4.3
+- SDK AppEngine 1.5
 - Google Plugin For Eclipse: http://code.google.com/eclipse/
 
 LICENSE:
